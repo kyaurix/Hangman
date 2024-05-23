@@ -1,0 +1,6 @@
+- loading words into program from file into ArrayList
+- pick random word from ArrayList
+
+find way to change word into -'s maybe by .length() and then compare values and show words which have been found
+
+have a death counter
